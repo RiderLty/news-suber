@@ -1,0 +1,7 @@
+{
+    "name":"滁州先锋",
+    "url":"https://www.czxfw.gov.cn/ashx/PageNews.ashx?action=GetPageData&ItemId=0&ItemSubId=1&PageRow=20&PageNo=1",
+    "type":"json",
+    "href":"*.NewsUrl",
+    "title":"*.NewsName"
+}
